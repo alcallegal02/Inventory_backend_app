@@ -1,0 +1,4 @@
+-r base.txt
+sentry-sdk==2.32.0
+urllib3==2.5.0
+certifi==2025.7.9
