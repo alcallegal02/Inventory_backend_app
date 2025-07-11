@@ -33,6 +33,8 @@ INSTALLED_APPS = [
     'rest_framework_simplejwt.token_blacklist',
     'apps.authentication',
     'apps.equipos_TI',
+    'apps.usuarios',
+    'apps.software',
 ]
 
 MIDDLEWARE = [

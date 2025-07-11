@@ -22,4 +22,6 @@ urlpatterns = [
     path('__debug__/', include('debug_toolbar.urls')),
     path('api/auth/', include('apps.authentication.urls')),
     path('api/equipos/', include('apps.equipos_TI.urls')),
+    path('api/usuarios/', include('apps.usuarios.urls')),
+    path('api/software/', include('apps.software.urls')),
 ]

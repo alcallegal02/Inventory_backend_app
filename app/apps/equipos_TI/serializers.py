@@ -1,4 +1,4 @@
-# inventario/serializers.py
+# apps/equipos_TI/serializers.py
 from rest_framework import serializers
 from .models import *
 

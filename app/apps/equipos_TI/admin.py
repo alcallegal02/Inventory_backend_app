@@ -1,4 +1,4 @@
-# inventario/admin.py
+# apps/equipos_TI/admin.py
 from django.contrib import admin
 from .models import PC, Portatil, Monitor, Teclado, Raton, Impresora, ImpresoraEtiquetas, Switch, Router, Otro
 
